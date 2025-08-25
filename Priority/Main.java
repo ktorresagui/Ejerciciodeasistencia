@@ -8,9 +8,7 @@ public class Main {
     public static void ejemploPriorityQueue() {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         Random rand = new Random();
-        int caimport java.util.Random;
-
-ntidad = 10; // Puedes cambiar la cantidad de elementos
+        int cantidad = 10; // Puedes cambiar la cantidad de elementos
 
         System.out.println("Agregando valores aleatorios a la PriorityQueue:");
         for (int i = 0; i < cantidad; i++) {
